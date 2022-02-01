@@ -30,7 +30,7 @@
 
 #### TASK 1
 **CALCULATOR**
-###### LINK FOR LIVE DEMO:- 
+###### LINK FOR LIVE DEMO:- https://anandscalculator.netlify.app/
 
 #### TASK 2
 **TRIBUTE PAGE**
