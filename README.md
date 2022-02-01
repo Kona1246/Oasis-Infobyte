@@ -34,7 +34,7 @@
 
 #### TASK 2
 **TRIBUTE PAGE**
-###### LINK FOR LIVE DEMO:- 
+###### LINK FOR LIVE DEMO:- https://brambdkr.netlify.app/
 
 #### TASK 3
 **A BASIC TO-DO WEBAPP**
