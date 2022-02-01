@@ -20,3 +20,18 @@
 #### TASK 3
 **TEMPERATURE CONVERTER WEBSITE**
 ###### LINK FOR LIVE DEMO:- https://temperaturetconverter.netlify.app/
+
+> **LEVEL 2**
+
+#### TASK 1
+**CALCULATOR**
+###### LINK FOR LIVE DEMO:- 
+
+#### TASK 2
+**TRIBUTE PAGE**
+###### LINK FOR LIVE DEMO:- 
+
+#### TASK 3
+**A BASIC TO-DO WEBAPP**
+###### LINK FOR LIVE DEMO:- 
+
